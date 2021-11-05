@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "topicTitle": "HTML",
+      "subTopics": [],
+      "id": 1
+    },
+    {
+      "topicTitle": "CSS",
+      "subTopics": [
+        {
+          "subTopicTitle": "Вступление в HTML",
+          "firstDescription": "Возврат нескольких элементов из компонента является распространённой практикой в React. Фрагменты позволяют формировать список дочерних элементов, не создавая лишних узлов в DOM.",
+          "img": "https://www.udacity.com/blog/wp-content/uploads/2020/06/HTML_Blog-scaled.jpeg",
+          "secondDescription": "Обратите внимание на первую строку <!DOCTYPE html>. DOCTYPE (document type) — служебная информация для браузера, где описывается стандарт HTML, который нужно обработать. Текущий стандарт HTML5 поддерживается всеми браузерами, поэтому достаточно указать в первой строке документа <!DOCTYPE html>, который говорит, что наш документ размечен по стандарту HTML5."
+        },
+        {
+          "subTopicTitle": "Начало работы с HTML",
+          "firstDescription": "Далее открывается парный тег html с атрибутом lang=\"ru\". Указание языка также необходимо для браузеров, особенно если сайт рассчитан на массовую аудиторию, в том числе и за рубежом.  Во избежание ошибок, обе вышеописанные конструкции, при их отсутствии, будут добавлены браузером автоматически. В некоторых ситуациях браузеры могут добавить не те строки, которые вы бы хотели, и вместо обработки страницы по стандарту HTML5 браузер будет обрабатывать всё как HTML4, что приведёт к множеству проблем.",
+          "img": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-320-80.jpg",
+          "secondDescription": "Во избежание ошибок, обе вышеописанные конструкции, при их отсутствии, будут добавлены браузером автоматически. В некоторых ситуациях браузеры могут добавить не те строки, которые вы бы хотели, и вместо обработки страницы по стандарту HTML5 браузер будет обрабатывать всё как HTML4, что приведёт к множеству проблем."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "topicTitle": "зоЫРСФС",
+      "subTopics": [
+        {
+          "subTopicTitle": "vadcasx",
+          "firstDescription": ";l,kmjhgfcvbnjugfgvhjkl",
+          "img": "https://www.google.com/search?q=URL+FLOWER&sxsrf=AOaemvIqw7AMrRjwrLg6d7-3vq7f4OG4_Q:1636099792148&tbm=isch&source=iu&ictx=1&fir=Bo4kwyJcq9aqxM%252CnVrbZ6x84_QItM%252C_%253Bd_C9OS5y1bYwDM%252CMkdap94l1GhjrM%252C_%253B7SYw14u_5tmxlM%252C-jzg_ktY6Nq4QM%252C_%253B6o_hBL9f_c9IGM%252C6sUXuy6mL9v9AM%252C_%253Bpa85vFpQ5YwizM%252CnVrbZ6x84_QItM%252C_%253B359H4mH2ndplUM%252C0TsuTQUu-b4C5M%252C_%253BYFLJjAIIad3DCM%252C9wNuivn1jxbuaM%252C_%253BwRbCZ-o5TNGkmM%252CMkdap94l1GhjrM%252C_%253BW-m02QITSDGkEM%252CX4r4W2wcBDbO-M%252C_%253BdmruMUGWqL9wcM%252CMkdap94l1GhjrM%252C_&vet=1&usg=AI4_-kQ_TibNib6jGfEJkPGsTIN5O9Glug&sa=X&ved=2ahUKEwir67XX4oD0AhXRtYsKHeS2Di0Q9QF6BAgQEAE#imgrc=7SYw14u_5tmxlM",
+          "secondDescription": "jbgjdsbvhjsbdhwuegwygrsbv"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
